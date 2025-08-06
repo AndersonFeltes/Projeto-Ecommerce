@@ -34,3 +34,19 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+Projeto desenvolvido como parte de um bootcamp de desenvolvimento full stack, com o objetivo de construir uma aplicação de e-commerce funcional, simulando uma loja virtual com fluxo completo de navegação, cadastro, carrinho e finalização de pedidos.
+
+Requisitos técnicos:
+Node.js
+React
+Next.js
+PostgresSQL
+
+Versões de instalação
+Versão do Node.js - 22.18.0
+Versão do Next.js - 15.4.1
+Shadcn: 2.9.2
+prettier-plugin-tailwindcss: 0.6.14
+prettier: 3.6.2
+eslint plugin simple import sort: 12.1.1
