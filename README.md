@@ -35,7 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-Projeto desenvolvido como parte de um bootcamp de desenvolvimento full stack, com o objetivo de construir uma aplicação de e-commerce funcional, simulando uma loja virtual com fluxo completo de navegação, cadastro, carrinho e finalização de pedidos.
+Projeto com o objetivo de construir uma aplicação de e-commerce funcional, simulando uma loja virtual com fluxo completo de navegação, cadastro, carrinho e finalização de pedidos.
 
 Requisitos técnicos:
 Node.js
